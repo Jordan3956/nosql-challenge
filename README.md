@@ -9,3 +9,6 @@ In this project, I was contracted by the editors of the food magazine, Eat Safe,
 - Conduct an exploratory data analysis to answer specific questions posed by Eat Safe, Love, such as identifying establishments with a hygiene score of 20, those in London with a RatingValue of 4 or higher, and the top five establishments with a RatingValue of 5, sorted by the lowest hygiene score and proximity to the new restaurant, "Penang Flavours."
 
 In summary, I completed the project by setting up the database, implementing necessary updates, and conducting data analysis to provide valuable insights to Eat Safe, Love for their future articles and coverage decisions.
+
+
+ps. it would not let me upload the resources because it said it was too big of a file. I hope that is ok
